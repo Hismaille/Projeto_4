@@ -16,8 +16,8 @@ Projeto para divugação de serviço DEV, 100% responsivel, HTML, CSS e JS.
 
 [//]: # (Add your gifs/images here:)
 <div>
-  <img src="imagens/gifprojeto3.gif" alt="demo" height="425">
-  <img src="imagens/gifprojeto3r.gif" alt="demo" height="425">
+  <img src="imagens/gifprojeto3.gif.gif" alt="demo" height="425">
+  <img src="imagens/gifprojeto3r.gif.gif" alt="demo" height="425">
 </div>
 
 <hr />
