@@ -1,12 +1,12 @@
 <h1 align="center">
 <br>
-  <img src="imagens/Logo.png" alt="Formulario Simples e Responsivo com Mosaico de imagens" width="120">
+  <img src="imagens/Logo.png" alt="Projeto DEV" width="120">
 <br>
 <br>
-Formulario Simples e Responsivo com Mosaico de imagens!
+Projeto para divugação de serviço DEV, 100% responsivel, HTML, CSS e JS.
 </h1>
 
-<p align="center">Esse formulario para contato, entre cliente e empresa, foi feito responsivo em HTML e CSS e contem imagens em mosaico para um site dinamico.</p>
+<p align="center">Projeto feito dinamico com menu desktop e Mobile funcionando, single-page, google maps e sistema de slide feito em JS.</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
